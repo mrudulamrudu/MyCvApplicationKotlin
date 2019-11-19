@@ -22,7 +22,7 @@ import retrofit2.Response
 import java.lang.ref.WeakReference
 import java.util.ArrayList
 
-class MainActivity : AppCompatActivity() {
+open class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
