@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="dimen_10">10dp</dimen>
+    <dimen name="margin_small">6dp</dimen>
+    <dimen name="margin_min">4dp</dimen>
+    <dimen name="margin_normal">16dp</dimen>
+    <dimen name="margin_medium_large">32dp</dimen>
+    <dimen name="margin_extra_large">64dp</dimen>
+    <dimen name="dimen_2">2dp</dimen>
+    <dimen name="dimen_1">1dp</dimen>
+
+    <dimen name="heading_text_size">22sp</dimen>
+    <dimen name="primary_text_size">14sp</dimen>
+    <dimen name="medium_text_size">15sp</dimen>
+
+</resources>
